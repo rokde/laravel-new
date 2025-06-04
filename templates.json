@@ -164,6 +164,11 @@
             "title": "Nuxt UI Starter",
             "package": "stursby/nuxt-ui-starter",
             "repo": "stursby/nuxt-ui-starter"
+        },
+        {
+            "title": "Vuejs Starter Kit",
+            "package": "rokde/laravel-starter-kit",
+            "repo": "rokde/laravel-starter-kit"
         }
     ]
 }
